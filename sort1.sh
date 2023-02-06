@@ -1,3 +1,3 @@
 #! /bin/bash -x
 
-echo "welcome"
+echo "welcome all"
